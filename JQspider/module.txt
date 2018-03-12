@@ -1,0 +1,28 @@
+"courseId":
+"type":
+"courseTitle":
+"courseImg":
+"skin":
+"collection":
+"materialList":[
+    {
+        "raw":"",
+        "weight":""
+    },
+    {
+        "raw":"",
+        "weight":""
+    }
+]
+"methodStep":[
+    {
+        "index":"",
+        "step":"",
+        "pic":""
+    },
+    {
+        "index":"",
+        "step":"",
+        "pic":""
+    }
+]
